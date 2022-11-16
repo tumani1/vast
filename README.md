@@ -1,1 +1,1 @@
-# vast
+# VAST Golang Library
